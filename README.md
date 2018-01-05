@@ -1,5 +1,7 @@
 # vue-datepicker
 
+Vue日期插件demo: https://hangaoke1.github.io/vue-datePicker-page/
+
 > A Vue.js project
 
 ## Build Setup
